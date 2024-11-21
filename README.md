@@ -320,3 +320,4 @@ RAILS_ENV=test bundle exec rake db:migrate
 # (Docker) docker-compose exec app bin/rspec spec
 bin/rspec spec
 ```
+# i-diario
